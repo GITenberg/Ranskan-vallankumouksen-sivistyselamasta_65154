@@ -1,5 +1,8 @@
 _repo: Ranskan-vallankumouksen-sivistyselamasta_65154
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Söderhjelm, Alma
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alma_S%C3%B6derhjelm
     - https://sv.wikipedia.org/wiki/Alma_S%C3%B6derhjelm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65154#Ranskan-vallankumouksen-sivistyselamasta
 gutenberg_issued: '2021-04-24'
 gutenberg_type: Text
 identifiers:
